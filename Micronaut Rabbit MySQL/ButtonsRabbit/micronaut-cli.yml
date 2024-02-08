@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: com.laborator.sd
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [ app-name, aws-lambda, jackson-databind, jdbc-hikari, junit, kotlin, logback, maven, mysql, rabbitmq, readme, shade, testcontainers, yaml ]
